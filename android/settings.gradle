@@ -1,0 +1,3 @@
+rootProject.name = 'RoutingProject'
+
+include ':app'
